@@ -1,1 +1,8 @@
 C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\bin\Debug\Click Game.exe.config
+C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\bin\Debug\Click Game.exe
+C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\bin\Debug\Click Game.pdb
+C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\obj\Debug\Click Game.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\obj\Debug\Click_Game.Properties.Resources.resources
+C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\obj\Debug\Click Game.csproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\obj\Debug\Click Game.exe
+C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\obj\Debug\Click Game.pdb
