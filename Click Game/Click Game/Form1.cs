@@ -12,9 +12,19 @@ namespace Click_Game
 {
     public partial class Form1 : Form
     {
+
+        long clicks = 0;
+
+
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            clicks++;
+            label1.Text = clicks.ToString();
         }
     }
 }

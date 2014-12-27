@@ -6,3 +6,4 @@ C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\obj\Debug\Clic
 C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\obj\Debug\Click Game.csproj.GenerateResource.Cache
 C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\obj\Debug\Click Game.exe
 C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\obj\Debug\Click Game.pdb
+C:\Users\Samuel\Documents\GitHub\Click-Game\Click Game\Click Game\obj\Debug\Click_Game.Form1.resources
